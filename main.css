@@ -58,9 +58,9 @@
     margin-bottom: 8px !important;
   }
 
-  .col-sm-3 a:hover
-  {
-    color: #fff586 !important;
+  .col-sm-3 a:hover {
+    color: black !important;
+    background: #aaa !important;
   }
 
 /* Main page feed - more clean look */
