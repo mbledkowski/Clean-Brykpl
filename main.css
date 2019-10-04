@@ -1,6 +1,6 @@
 @-moz-document domain("bryk.pl")
 {
-/* Update v.1.1 */
+
   .recommended
   {
     display: none !important;
@@ -49,7 +49,7 @@
     font-size: 30px !important;
     color: black !important;
   }
-/* Update v.1.1 - ".col-sm-3 a" changed to ".col-sm-3 .question-btn" + 5px of margin bottom and top has been added */
+
   .col-sm-3 .question-btn
   {
     width: 180px !important;
@@ -99,11 +99,11 @@
   {
     display: none !important;
   }
-/*update v1.1*/
+
   .main-header nav
   {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
   }
-/*by @mmble*/;
+/*by @mmble*/
 }
