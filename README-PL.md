@@ -11,5 +11,5 @@ Customowy arkusz styli dla strony Bryk.pl, powoduje to, że strona wygląda bard
 * Wejdź na [UserStyles.org > Clean Bryk.pl](https://UserStyles.org/styles/175569/clean-bryk-pl)
 * Kliknij "Install Style"
 
-# Zrzut ekranu lub nic się nie stało
+# Zrzut ekranu
 ![Screenshot of Clean Bryk.pl custom style sheet - Before and After](./screenshot.jpg?raw=true "Screenshot - Before and After")
