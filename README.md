@@ -14,3 +14,7 @@ Custom style sheet for Bryk.pl site, that change it to make it looks more clean,
 
 # SS or didn't happen
 ![Screenshot of Clean Bryk.pl custom style sheet - Before and After](./screenshot.jpg?raw=true "Screenshot - Before and After")
+
+# License
+Licensed under Creative Commons license - CC BY-NC 4.0
+Available in [LICENSE](./LICENSE) file, and on [Creative Commons site](https://creativecommons.org/licenses/by-nc/4.0/)
